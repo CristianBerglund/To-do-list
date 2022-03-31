@@ -1,0 +1,23 @@
+#content {
+    width: 50%;
+	margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+}
+
+.done {
+    background-color: rgb(19, 255, 19);
+    color: black;
+    margin: 5px;
+}
+
+.remove {
+    background-color: rgb(250, 117, 117);
+    color: black;
+}
+
+.change {
+    background-color: yellow;
+    color: black;
+}
+
